@@ -2,7 +2,7 @@
 made by kuchka muzhikov
 man1: Захар
 man2: Максим
-man3: Данил
+man3: Даниил
 man4: Михаил
 man5: Глеб
 
